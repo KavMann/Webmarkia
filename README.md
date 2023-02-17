@@ -16,3 +16,12 @@ The homepage was designed to be clean and easy to navigate. It featured a large 
 
 Portfolio
 The portfolio page can be designed to showcase the designer's work. The page included a grid of images that were clickable, allowing visitors to view the designer's work in more detail. Each image included a brief description of the project, the designer's role, and the skills used.
+
+
+# Figma Links
+
+Figma Links
+https://www.figma.com/file/Bk8zLKjl0s7SFA4Or1zeEE/Untitled?node-id=0%3A1&t=FI0r3wBWM06Ly2mM-1
+
+Prototype Link
+https://www.figma.com/proto/Bk8zLKjl0s7SFA4Or1zeEE/Untitled?page-id=0%3A1&node-id=0%3A1523&viewport=246%2C2116%2C1&scaling=min-zoom&starting-point-node-id=0%3A1523
